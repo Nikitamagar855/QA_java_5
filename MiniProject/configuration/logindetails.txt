@@ -1,0 +1,3 @@
+app url=https://money.rediff.com/index.html
+username=Nikitamagar855
+Password=Swami@855
