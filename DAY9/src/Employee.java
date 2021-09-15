@@ -16,7 +16,6 @@ public class Employee
 			Employee e = new Employee();
 			e.empName("java");
 			e.add(83);
-
 	}
 
 }
