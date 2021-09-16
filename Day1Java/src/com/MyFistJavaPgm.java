@@ -1,7 +1,7 @@
 package com;
 
 public class MyFistJavaPgm {
-	private void CourseDetails() {
+	private void JavaDetails () {
 		// TODO Auto-generated method stub
 		System.out.println("hello");
 
@@ -9,8 +9,8 @@ public class MyFistJavaPgm {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		MyFistJavaPgm  courseDetails = new MyFistJavaPgm();
-		courseDetails.CourseDetails();
+		MyFistJavaPgm  JavaDetails = new MyFistJavaPgm();
+		JavaDetails.JavaDetails();
 		
 		System.out.println("java");
 		
